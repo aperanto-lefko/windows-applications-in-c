@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B128E1-F4D0-47C0-9B2A-1EA83B306C18}|ex_1\\ex_1.csproj|e:\\itmo\\windows c#\\laboratory_work\\work_1\\ex_1\\ex_1\\nform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B128E1-F4D0-47C0-9B2A-1EA83B306C18}|ex_1\\ex_1.csproj|solutionrelative:ex_1\\nform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B128E1-F4D0-47C0-9B2A-1EA83B306C18}|ex_1\\ex_1.csproj|E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_1\\ex_1\\nform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B128E1-F4D0-47C0-9B2A-1EA83B306C18}|ex_1\\ex_1.csproj|solutionrelative:ex_1\\nform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B128E1-F4D0-47C0-9B2A-1EA83B306C18}|ex_1\\ex_1.csproj|e:\\itmo\\windows c#\\laboratory_work\\work_1\\ex_1\\ex_1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B128E1-F4D0-47C0-9B2A-1EA83B306C18}|ex_1\\ex_1.csproj|solutionrelative:ex_1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B128E1-F4D0-47C0-9B2A-1EA83B306C18}|ex_1\\ex_1.csproj|E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_1\\ex_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B128E1-F4D0-47C0-9B2A-1EA83B306C18}|ex_1\\ex_1.csproj|solutionrelative:ex_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B128E1-F4D0-47C0-9B2A-1EA83B306C18}|ex_1\\ex_1.csproj|e:\\itmo\\windows c#\\laboratory_work\\work_1\\ex_1\\ex_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B128E1-F4D0-47C0-9B2A-1EA83B306C18}|ex_1\\ex_1.csproj|solutionrelative:ex_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nForm.cs",
+              "DocumentMoniker": "E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_1\\ex_1\\nForm.cs",
+              "RelativeDocumentMoniker": "ex_1\\nForm.cs",
+              "ToolTip": "E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_1\\ex_1\\nForm.cs",
+              "RelativeToolTip": "ex_1\\nForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:28:59.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_1\\ex_1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ex_1\\Form1.Designer.cs",
+              "ToolTip": "E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_1\\ex_1\\Form1.Designer.cs",
+              "RelativeToolTip": "ex_1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:18:09.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_1\\ex_1\\nForm.cs",
+              "RelativeDocumentMoniker": "ex_1\\nForm.cs",
+              "ToolTip": "E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_1\\ex_1\\ex_1\\nForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "ex_1\\ex_1\\nForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:17:49.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_1\\ex_1\\Form1.cs",
+              "RelativeDocumentMoniker": "ex_1\\Form1.cs",
+              "ToolTip": "E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_1\\ex_1\\Form1.cs",
+              "RelativeToolTip": "ex_1\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:12:57.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_1\\ex_1\\Form1.cs",
+              "RelativeDocumentMoniker": "ex_1\\Form1.cs",
+              "ToolTip": "E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_1\\ex_1\\ex_1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "ex_1\\ex_1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:09:20.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
