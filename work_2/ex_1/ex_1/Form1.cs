@@ -45,5 +45,10 @@ namespace ex_1
             // Перемещение кнопки
             btnno.Location = new Point(newX, newY);
         }
+
+        private void btnno_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("А вы хитрый!");
+        }
     }
 }

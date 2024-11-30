@@ -42,8 +42,7 @@
               "RelativeToolTip": "ex_5.3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T21:15:37.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T21:15:37.13Z"
             },
             {
               "$type": "Document",
@@ -61,14 +60,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Title": "Form1.cs [Design]",
               "DocumentMoniker": "E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_5\\ex_5.3\\ex_5.3\\Form1.cs",
               "RelativeDocumentMoniker": "ex_5.3\\Form1.cs",
-              "ToolTip": "E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_5\\ex_5.3\\ex_5.3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "ex_5.3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "ToolTip": "E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_5\\ex_5.3\\ex_5.3\\Form1.cs [Design]",
+              "RelativeToolTip": "ex_5.3\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T21:12:43.49Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+              "EditorCaption": " [Design]"
             }
           ]
         }

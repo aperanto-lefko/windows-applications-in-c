@@ -51,6 +51,7 @@
             btnno.TabIndex = 1;
             btnno.Text = "Нет";
             btnno.UseVisualStyleBackColor = true;
+            btnno.Click += btnno_Click;
             btnno.MouseClick += btnno_Click;
             btnno.MouseEnter += btnno_MouseEnter;
             btnno.MouseMove += btnno_MouseMove;
