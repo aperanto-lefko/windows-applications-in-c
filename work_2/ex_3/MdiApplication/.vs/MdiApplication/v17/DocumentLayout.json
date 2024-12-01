@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITMO\\Windows C#\\laboratory_work\\work_2\\ex_3\\MdiApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18E03D86-B4FF-4EEB-AD7E-3F5903DDB9E0}|MdiApplication\\MdiApplication.csproj|e:\\itmo\\windows c#\\laboratory_work\\work_2\\ex_3\\mdiapplication\\mdiapplication\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E03D86-B4FF-4EEB-AD7E-3F5903DDB9E0}|MdiApplication\\MdiApplication.csproj|solutionrelative:mdiapplication\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E03D86-B4FF-4EEB-AD7E-3F5903DDB9E0}|MdiApplication\\MdiApplication.csproj|E:\\ITMO\\Windows C#\\laboratory_work\\work_2\\ex_3\\MdiApplication\\mdiapplication\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18E03D86-B4FF-4EEB-AD7E-3F5903DDB9E0}|MdiApplication\\MdiApplication.csproj|solutionrelative:mdiapplication\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E03D86-B4FF-4EEB-AD7E-3F5903DDB9E0}|MdiApplication\\MdiApplication.csproj|E:\\ITMO\\Windows C#\\laboratory_work\\work_2\\ex_3\\MdiApplication\\mdiapplication\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18E03D86-B4FF-4EEB-AD7E-3F5903DDB9E0}|MdiApplication\\MdiApplication.csproj|solutionrelative:mdiapplication\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E03D86-B4FF-4EEB-AD7E-3F5903DDB9E0}|MdiApplication\\MdiApplication.csproj|e:\\itmo\\windows c#\\laboratory_work\\work_2\\ex_3\\mdiapplication\\mdiapplication\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E03D86-B4FF-4EEB-AD7E-3F5903DDB9E0}|MdiApplication\\MdiApplication.csproj|solutionrelative:mdiapplication\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E03D86-B4FF-4EEB-AD7E-3F5903DDB9E0}|MdiApplication\\MdiApplication.csproj|e:\\itmo\\windows c#\\laboratory_work\\work_2\\ex_3\\mdiapplication\\mdiapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E03D86-B4FF-4EEB-AD7E-3F5903DDB9E0}|MdiApplication\\MdiApplication.csproj|solutionrelative:mdiapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChildForm.cs",
+              "DocumentMoniker": "E:\\ITMO\\Windows C#\\laboratory_work\\work_2\\ex_3\\MdiApplication\\MdiApplication\\ChildForm.cs",
+              "RelativeDocumentMoniker": "MdiApplication\\ChildForm.cs",
+              "ToolTip": "E:\\ITMO\\Windows C#\\laboratory_work\\work_2\\ex_3\\MdiApplication\\MdiApplication\\ChildForm.cs",
+              "RelativeToolTip": "MdiApplication\\ChildForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAwwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:07:10.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChildForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "E:\\ITMO\\Windows C#\\laboratory_work\\work_2\\ex_3\\MdiApplication\\MdiApplication\\ChildForm.cs",
+              "RelativeDocumentMoniker": "MdiApplication\\ChildForm.cs",
+              "ToolTip": "E:\\ITMO\\Windows C#\\laboratory_work\\work_2\\ex_3\\MdiApplication\\MdiApplication\\ChildForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "MdiApplication\\ChildForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:57:12.493Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ITMO\\Windows C#\\laboratory_work\\work_2\\ex_3\\MdiApplication\\MdiApplication\\Program.cs",
+              "RelativeDocumentMoniker": "MdiApplication\\Program.cs",
+              "ToolTip": "E:\\ITMO\\Windows C#\\laboratory_work\\work_2\\ex_3\\MdiApplication\\MdiApplication\\Program.cs",
+              "RelativeToolTip": "MdiApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:37:54.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "E:\\ITMO\\Windows C#\\laboratory_work\\work_2\\ex_3\\MdiApplication\\MdiApplication\\ParentForm.cs",
+              "RelativeDocumentMoniker": "MdiApplication\\ParentForm.cs",
+              "ToolTip": "E:\\ITMO\\Windows C#\\laboratory_work\\work_2\\ex_3\\MdiApplication\\MdiApplication\\ParentForm.cs",
+              "RelativeToolTip": "MdiApplication\\ParentForm.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwCsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:37:23.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "E:\\ITMO\\Windows C#\\laboratory_work\\work_2\\ex_3\\MdiApplication\\MdiApplication\\ParentForm.cs",
+              "RelativeDocumentMoniker": "MdiApplication\\ParentForm.cs",
+              "ToolTip": "E:\\ITMO\\Windows C#\\laboratory_work\\work_2\\ex_3\\MdiApplication\\MdiApplication\\ParentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "MdiApplication\\ParentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:36:48.407Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{0FB9005A-D393-47B5-BF63-C35F4B44AAF2}|ex_5.2\\ex_5.2.csproj|solutionrelative:ex_5.2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB9005A-D393-47B5-BF63-C35F4B44AAF2}|ex_5.2\\ex_5.2.csproj|e:\\itmo\\windows c#\\laboratory_work\\work_1\\ex_5\\ex_5.2\\ex_5.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FB9005A-D393-47B5-BF63-C35F4B44AAF2}|ex_5.2\\ex_5.2.csproj|solutionrelative:ex_5.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FB9005A-D393-47B5-BF63-C35F4B44AAF2}|ex_5.2\\ex_5.2.csproj|e:\\itmo\\windows c#\\laboratory_work\\work_1\\ex_5\\ex_5.2\\ex_5.2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0FB9005A-D393-47B5-BF63-C35F4B44AAF2}|ex_5.2\\ex_5.2.csproj|E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_5\\ex_5.2\\ex_5.2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0FB9005A-D393-47B5-BF63-C35F4B44AAF2}|ex_5.2\\ex_5.2.csproj|solutionrelative:ex_5.2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FB9005A-D393-47B5-BF63-C35F4B44AAF2}|ex_5.2\\ex_5.2.csproj|e:\\itmo\\windows c#\\laboratory_work\\work_1\\ex_5\\ex_5.2\\ex_5.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FB9005A-D393-47B5-BF63-C35F4B44AAF2}|ex_5.2\\ex_5.2.csproj|solutionrelative:ex_5.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB9005A-D393-47B5-BF63-C35F4B44AAF2}|ex_5.2\\ex_5.2.csproj|e:\\itmo\\windows c#\\laboratory_work\\work_1\\ex_5\\ex_5.2\\ex_5.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB9005A-D393-47B5-BF63-C35F4B44AAF2}|ex_5.2\\ex_5.2.csproj|solutionrelative:ex_5.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FB9005A-D393-47B5-BF63-C35F4B44AAF2}|ex_5.2\\ex_5.2.csproj|E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_5\\ex_5.2\\ex_5.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -48,14 +48,14 @@
               "RelativeDocumentMoniker": "ex_5.2\\Form2.cs",
               "ToolTip": "E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_5\\ex_5.2\\ex_5.2\\Form2.cs",
               "RelativeToolTip": "ex_5.2\\Form2.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCEAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T20:48:38.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_5\\ex_5.2\\ex_5.2\\Form1.cs",
               "RelativeDocumentMoniker": "ex_5.2\\Form1.cs",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_5\\ex_5.2\\ex_5.2\\Program.cs",
               "RelativeDocumentMoniker": "ex_5.2\\Program.cs",
@@ -81,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_5\\ex_5.2\\ex_5.2\\Form2.cs",
               "RelativeDocumentMoniker": "ex_5.2\\Form2.cs",
@@ -100,8 +100,7 @@
               "ToolTip": "E:\\ITMO\\Windows C#\\laboratory_work\\work_1\\ex_5\\ex_5.2\\ex_5.2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "RelativeToolTip": "ex_5.2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T21:53:00.284Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+              "WhenOpened": "2024-11-27T21:53:00.284Z"
             }
           ]
         }
