@@ -1,5 +1,7 @@
 using System.Text;
 using System.Windows.Forms;
+using ex_6.Bibl;
+
 
 namespace ex_6
 {
