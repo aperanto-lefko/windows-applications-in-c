@@ -1,0 +1,17 @@
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_5\ex_5\bin\Debug\net8.0-windows\ex_5.exe
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_5\ex_5\bin\Debug\net8.0-windows\ex_5.deps.json
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_5\ex_5\bin\Debug\net8.0-windows\ex_5.runtimeconfig.json
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_5\ex_5\bin\Debug\net8.0-windows\ex_5.dll
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_5\ex_5\bin\Debug\net8.0-windows\ex_5.pdb
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_5\ex_5\obj\Debug\net8.0-windows\ex_5.Form1.resources
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_5\ex_5\obj\Debug\net8.0-windows\ex_5.csproj.GenerateResource.cache
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_5\ex_5\obj\Debug\net8.0-windows\ex_5.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_5\ex_5\obj\Debug\net8.0-windows\ex_5.AssemblyInfoInputs.cache
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_5\ex_5\obj\Debug\net8.0-windows\ex_5.AssemblyInfo.cs
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_5\ex_5\obj\Debug\net8.0-windows\ex_5.csproj.CoreCompileInputs.cache
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_5\ex_5\obj\Debug\net8.0-windows\ex_5.sourcelink.json
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_5\ex_5\obj\Debug\net8.0-windows\ex_5.dll
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_5\ex_5\obj\Debug\net8.0-windows\refint\ex_5.dll
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_5\ex_5\obj\Debug\net8.0-windows\ex_5.pdb
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_5\ex_5\obj\Debug\net8.0-windows\ex_5.genruntimeconfig.cache
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_5\ex_5\obj\Debug\net8.0-windows\ref\ex_5.dll
