@@ -1,0 +1,17 @@
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_7\RegistrationForm\RegistrationForm\bin\Debug\net8.0-windows\RegistrationForm.exe
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_7\RegistrationForm\RegistrationForm\bin\Debug\net8.0-windows\RegistrationForm.deps.json
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_7\RegistrationForm\RegistrationForm\bin\Debug\net8.0-windows\RegistrationForm.runtimeconfig.json
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_7\RegistrationForm\RegistrationForm\bin\Debug\net8.0-windows\RegistrationForm.dll
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_7\RegistrationForm\RegistrationForm\bin\Debug\net8.0-windows\RegistrationForm.pdb
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_7\RegistrationForm\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.Form1.resources
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_7\RegistrationForm\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.csproj.GenerateResource.cache
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_7\RegistrationForm\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_7\RegistrationForm\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.AssemblyInfoInputs.cache
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_7\RegistrationForm\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.AssemblyInfo.cs
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_7\RegistrationForm\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.csproj.CoreCompileInputs.cache
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_7\RegistrationForm\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.sourcelink.json
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_7\RegistrationForm\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.dll
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_7\RegistrationForm\RegistrationForm\obj\Debug\net8.0-windows\refint\RegistrationForm.dll
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_7\RegistrationForm\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.pdb
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_7\RegistrationForm\RegistrationForm\obj\Debug\net8.0-windows\RegistrationForm.genruntimeconfig.cache
+E:\ITMO\Windows C#\laboratory_work\work_2\ex_7\RegistrationForm\RegistrationForm\obj\Debug\net8.0-windows\ref\RegistrationForm.dll
